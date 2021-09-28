@@ -1,0 +1,16 @@
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\bin\Debug\net5.0\Herencia3.exe
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\bin\Debug\net5.0\Herencia3.deps.json
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\bin\Debug\net5.0\Herencia3.runtimeconfig.json
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\bin\Debug\net5.0\Herencia3.runtimeconfig.dev.json
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\bin\Debug\net5.0\Herencia3.dll
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\bin\Debug\net5.0\ref\Herencia3.dll
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\bin\Debug\net5.0\Herencia3.pdb
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\obj\Debug\net5.0\Herencia3.csprojAssemblyReference.cache
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\obj\Debug\net5.0\Herencia3.GeneratedMSBuildEditorConfig.editorconfig
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\obj\Debug\net5.0\Herencia3.AssemblyInfoInputs.cache
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\obj\Debug\net5.0\Herencia3.AssemblyInfo.cs
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\obj\Debug\net5.0\Herencia3.csproj.CoreCompileInputs.cache
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\obj\Debug\net5.0\Herencia3.dll
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\obj\Debug\net5.0\ref\Herencia3.dll
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\obj\Debug\net5.0\Herencia3.pdb
+D:\IdeasoftProjects\c#\Herencia3\Herencia3\obj\Debug\net5.0\Herencia3.genruntimeconfig.cache
